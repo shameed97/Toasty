@@ -4,4 +4,15 @@
     <string name="warning">Warning</string>
     <string name="information">Information</string>
     <string name="error">Error</string>
+    <string name="next_page">Next Page</string>
+    <string name="x">X</string>
+    <string name="shameed97_pno">shaMeed97.pno</string>
+    <string name="_15_parangi_pettai">15,Parangi Pettai-608 502</string>
+    <string name="_105">105</string>
+    <string name="comments">Comments</string>
+    <string name="likes">Likes</string>
+    <string name="_895">895</string>
+    <string name="_47">47</string>
+    <string name="followers">Followers</string>
+    <string name="submit">Follow Me</string>
 </resources>
